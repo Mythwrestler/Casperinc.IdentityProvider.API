@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{177A0A56-A0ED-4A1D-ABBF-61AE1539ACCE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Startup.cs">
+    <Files>
+      <File FileName="Startup.cs" Line="75" Column="78" />
+      <File FileName="Controllers/AuthorizationController.cs" Line="113" Column="5" />
+      <File FileName="Program.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Casperinc.IdentityProvider PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
